@@ -1,0 +1,14 @@
+{
+  "phone_codes": [
+    7
+  ],
+  "requests": [
+    {
+      "method": "POST",
+      "url": "https://hcaptcha.com/1/api.js?hl=ru&recaptchacompat=off&render=explicit",
+      "data": {
+        "phone": "{full_phone}"
+      }
+    }
+  ]
+}
