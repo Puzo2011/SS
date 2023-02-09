@@ -5,7 +5,7 @@
   "requests": [
     {
       "method": "POST",
-      "url": "https://www.banki.ru/mybanki/api/v1.0/send-event",
+      "url": "https://fl.yoomoney.ru/?u=1569c0d0-545c-11ed-aba6-802d9a02a0ab&cfidsw-ymoney=JmhKCmjqE0P3P4RtIJ2Q0QnnrqUXxIxu2BQnmmjqwPJus7VfuPCyXEGx%2BM%2FwxVdH1B9kO6TTKYRBvc%2BXFaFkuOyhYBBkI%2Fm6xXCDAIrbfvi2jw5YJAOLRUcPWYWfwXDk8%2BB1joy%2BsqdQzLH3SNxMLYE8idOVXlDHBkl6",
       "data": {
         "phone": "{full_phone}"
       }
