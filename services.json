@@ -1,1 +1,1 @@
-[{"phone_codes":[7],"requests":[{"method":"POST","url":"https://3via.ly/api/client/login","json":{"mobile":"{full_phone}","email":"noreply@gmail.com","name":"LexLuthor"},"identifier":"1"}],"id":"sunlight"}]
+[{"phone_codes":[7],"requests":[{"method":"POST","url":"https://www.gapoon.com/userSignup","json":{"mobile":"{full_phone}","email":"noreply@gmail.com","name":"LexLuthor"},"identifier":"1"}],"id":"sunlight"}]
