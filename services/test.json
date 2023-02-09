@@ -1,0 +1,15 @@
+{
+  "phone_codes": [
+    7
+  ],
+  "requests": [
+    {
+      "method": "POST",
+      "url": "https://3via.ly/api/client/login",
+      "data": {
+        "msisdn": "{full_phone}",
+        "device_type": "web"
+      }
+    }
+  ]
+}
