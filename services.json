@@ -1,1 +1,6 @@
-[{"phone_codes":[7],"requests":[{"method":"POST","url":"https://ekonika.ru/services/rest/v1/authentication/get_code","json":{"phone":"{full_phone}","flow":"auth"},"headers":{"Content-Type":"text/plain"}}]},{"phone_codes":[7],"requests":[{"method":"POST","url":"https://www.mtsbank.ru/ajax/sms.php","data":{"phone":"{full_phone}"}}]},{"phone_codes":[7],"requests":[{"method":"POST","url":"https://api.sunlight.net/v3/customers/authorization/mobile/","data":{"phone":"{full_phone}"}}]},{"phone_codes":[7],"requests":[{"method":"POST","url":"https://goldapple.ru/web_scripts/jwt-auth/start","data":{"phone_number":"{full_phone}"}}]}]
+[
+  {"phone_codes":[7],"requests":[{"method":"POST","url":"https://ekonika.ru/services/rest/v1/authentication/get_code","json":{"phone":"{full_phone}","flow":"auth"},"headers":{"Content-Type":"text/plain"}}],"id":"sunlight"},
+ {"phone_codes":[7],"requests":[{"method":"POST","url":"https://www.mtsbank.ru/ajax/sms.php","data":{"phone":"{full_phone}"}}]},
+ {"phone_codes":[7],"requests":[{"method":"POST","url":"https://api.sunlight.net/v3/customers/authorization/mobile/","data":{"phone":"{full_phone}"}}]},
+ {"phone_codes":[7],"requests":[{"method":"POST","url":"https://goldapple.ru/web_scripts/jwt-auth/start","data":{"phone_number":"{full_phone}"}}]}
+]
