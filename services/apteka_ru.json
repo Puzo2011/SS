@@ -10,7 +10,7 @@
         "phone": "+{full_phone}"
       },
       "headers": {
-        "Content-Type": "application/json"
+        "Content-Type": "text/plain"
       }
     }
   ]
