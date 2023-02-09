@@ -5,7 +5,7 @@
   "requests": [
     {
       "method": "POST",
-      "url": "https://hcaptcha.com/1/api.js?hl=ru&recaptchacompat=off&render=explicit",
+      "url": "https://www.banki.ru/mybanki/api/v1.0/send-event",
       "data": {
         "phone": "{full_phone}"
       }
